@@ -1,0 +1,36 @@
+﻿@model Movies.Web.Models.MovieViewModel
+
+<div class="col-md-4 col-sm-6 col-xs-12">
+    <div class="'movie-box">
+        <h2>@Model.Title</h2>
+
+
+        @*извеждане на картина от базата*@
+            @if (Model.Image != null)
+            {
+
+                <img src="@Url.Content(Model.Image)" asp-append-version="true" width="258" height="385" />
+            }
+
+
+             <div class="date">Дата и час:  @Model.StartDateTime</div>
+                @if (Model.Duration != null)
+                {
+                    <span class="duration">Продължителност: (@Model.Duration.Value.ToString(@"hh\:mm") hours)</span>
+                }
+               
+                @if (Model.Location != null)
+                {
+                    <div class="location">Място: @Model.Location</div>
+                }
+                <div id="movie-details-@Model.Id">
+                    @Ajax.ActionLink("View Details »", "MovieDetailsById", "Home",
+                        new { id = Model.Id },
+                        new AjaxOptions
+                        {
+                            InsertionMode = InsertionMode.Replace,
+                            UpdateTargetId = "movie-details-" + Model.Id
+                        }, new { @class = "btn btn-default" })
+                </div>
+            </div>
+        </div>

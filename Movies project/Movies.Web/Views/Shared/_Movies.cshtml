@@ -1,0 +1,30 @@
+﻿@model Movies.Web.Models.UpcomingPassedMoviesViewModel
+
+    <h1 class="movie-group-heading">Предстоящи филми</h1>
+
+    <div class="row">
+        @if (Model.UpcomingMovies.Any())
+        {
+            @Html.DisplayFor(x => x.UpcomingMovies)
+        }
+        else
+        {
+            <div class="col-md-4 col-sm-6 col-xs-12">No movies</div>
+        }
+    </div>
+
+    <h1 class="movie-group-heading">Минали филми</h1>
+
+    <div class="row">
+        @if (Model.PassedMovies.Any())
+        {
+            @Html.DisplayFor(x => x.PassedMovies)
+        }
+        else
+        {
+            <div class="col-md-4 col-sm-6 col-xs-12">No movies</div>
+        }
+    </div>
+    @section scripts {
+        @Scripts.Render("~/bundles/ajax")
+    }

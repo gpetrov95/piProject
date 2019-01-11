@@ -1,0 +1,43 @@
+﻿@model Movies.Web.Models.MovieDetailsViewModel
+
+@if (Model.Description != null)
+{
+    <div class="description">Описание: @Model.Description</div>
+}
+
+@if (Model.Comments.Any())
+{
+    @:Коментари:
+    <ul>
+        @foreach (var comment in Model.Comments)
+        {
+            <li>
+                @comment.Text
+                @if (@comment.Author != null)
+                {
+                    @: (by @comment.Author)
+                }
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No comments</p>
+}
+
+@if (ViewBag.CanEdit)
+{
+    @Html.ActionLink("Edit", "Edit", "Movies", new { id = Model.Id }, new { @class = "btn btn-default" })
+    <span></span>
+    @Html.ActionLink("Delete", "Delete", "Movies", new { id = Model.Id }, new { @class = "btn btn-default" })
+
+    // @Html.ActionLink("AddComment", "AddComment", "Movies", new { id = Model.Id }, new { @class = "btn btn-default" })
+
+}
+@if (User.Identity.IsAuthenticated)
+{
+    @Html.ActionLink("AddComment", "AddComment", "Movies", new { id = Model.Id }, new { @class = "btn btn-default" })
+    @Html.ActionLink("AddToFavorite", "AddToFavorite", "Movies", new { id = Model.Id }, new { @class = "btn btn-default" })
+
+}

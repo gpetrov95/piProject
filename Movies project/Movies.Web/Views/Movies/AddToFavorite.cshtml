@@ -1,0 +1,11 @@
+﻿@model Movies.Web.Models.UpcomingPassedMoviesViewModel
+
+@{
+    ViewBag.Title = "Favorite Movies";
+}
+
+@Html.Partial("_Movies")
+
+@section scripts {
+    @Scripts.Render("~/bundles/ajax")
+}

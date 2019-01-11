@@ -1,0 +1,59 @@
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\obj\Debug\Movies.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\obj\Debug\Events.Data.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Data\obj\Debug\Movies.Data.csproj.CopyComplete
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Events.Data.dll.config
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Events.Data.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Events.Data.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Movies.Data.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Movies.Data.csproj.CopyComplete
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Events.Data.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Events.Data.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Movies.Data.csprojAssemblyReference.cache
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Events.Data.dll.config
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Events.Data.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Events.Data.pdb
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Movies.Data.csprojResolveAssemblyReference.cache
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Events.Data.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Data\obj\Debug\Events.Data.pdb
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Events.Data.dll.config
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Events.Data.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Events.Data.pdb
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\obj\Debug\Movies.Data.csprojResolveAssemblyReference.cache
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\obj\Debug\Events.Data.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Data\obj\Debug\Events.Data.pdb

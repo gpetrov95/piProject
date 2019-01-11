@@ -1,0 +1,356 @@
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Events.Web.dll.config
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Events.Web.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Events.Web.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Antlr3.Runtime.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Events.Data.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Newtonsoft.Json.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Owin.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Helpers.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Mvc.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Optimization.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Razor.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.WebPages.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\WebGrease.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Events.Data.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Events.Data.dll.config
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\Newtonsoft.Json.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Helpers.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Mvc.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Razor.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.WebPages.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\bin\System.Web.Optimization.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\obj\Debug\Movies.Web.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\obj\Debug\Movies.Web.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\obj\Debug\Movies.Web.csproj.CopyComplete
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\obj\Debug\Events.Web.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Events.Web\obj\Debug\Events.Web.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll.config
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Owin.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\WebGrease.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll.config
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.xml
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csproj.CopyComplete
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.dll
+C:\Users\Georgi\Desktop\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.pdb
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll.config
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.pdb
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Owin.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\WebGrease.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.pdb
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll.config
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.xml
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csproj.CopyComplete
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.dll
+C:\Users\Georgi\Desktop\raboti s event vsi4ko\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.pdb
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll.config
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.pdb
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Owin.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\WebGrease.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.pdb
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll.config
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.xml
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csprojAssemblyReference.cache
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csproj.CopyComplete
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.dll
+C:\Users\Georgi\Desktop\raboti s komentari i users\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.pdb
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll.config
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Web.pdb
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Owin.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\WebGrease.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.pdb
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Events.Data.dll.config
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Antlr3.Runtime.pdb
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\Newtonsoft.Json.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Helpers.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Mvc.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Razor.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\bin\System.Web.Optimization.xml
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Movies.Web.csprojResolveAssemblyReference.cache
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.dll
+C:\Users\georgi.petrov\Desktop\raboti prevedeno\raboti prevedeno\nanovo s event\10. Events-Lab\Movies.Web\obj\Debug\Events.Web.pdb
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Events.Web.dll.config
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Events.Web.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Events.Web.pdb
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Antlr3.Runtime.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Events.Data.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Newtonsoft.Json.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Owin.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Helpers.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Mvc.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Optimization.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Razor.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.WebPages.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\WebGrease.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Events.Data.pdb
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Events.Data.dll.config
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Antlr3.Runtime.pdb
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\Newtonsoft.Json.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Helpers.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Mvc.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Razor.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.WebPages.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\bin\System.Web.Optimization.xml
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\obj\Debug\Movies.Web.csprojResolveAssemblyReference.cache
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\obj\Debug\Events.Web.dll
+C:\Users\georgi.petrov\Desktop\ProjectPi\raboti prevedeno\raboti prevedeno\project\Movies project\Movies.Web\obj\Debug\Events.Web.pdb
